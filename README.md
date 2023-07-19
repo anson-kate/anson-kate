@@ -10,7 +10,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
-    <img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" width="40" height="40"/>&nbsp;
 </div>        
           
           
